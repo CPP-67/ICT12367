@@ -43,7 +43,7 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="index.php" class="active">Home</a></li>
           <li><a href="#team">Team</a></li>
           <li><a href="login.php">Login</a></li>
         </ul>
@@ -144,7 +144,7 @@
               <div class="member-info">
                 <h4>Pongsakorn Udorn</h4>
                 <span>67139997</span>
-                <div class="social">
+                <div class="social" >
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>

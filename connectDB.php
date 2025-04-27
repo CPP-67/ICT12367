@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "employee_db";
+$database = "employee";
 
 // สร้างการเชื่อมต่อ
 $conn = new mysqli($servername, $username, $password, $database);
